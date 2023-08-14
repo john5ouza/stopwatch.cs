@@ -1,6 +1,6 @@
 # STOPWATC#.CS
 
-<img width="1600" alt="POST" src="https://github.com/john5ouza/calculator.cs/assets/63263864/f292255c-586a-48c4-9d13-474499f8e32a">
+<img width="1600" alt="POST" src="https://github.com/john5ouza/stopwatch.cs/assets/63263864/efe17f93-1e04-40ea-a50f-21d4c72558ce">
 
 **Introduction**
 This repository contains a basic yet effective C# program designed as a stopwatch, aptly named "STOPWATC#". The application allows users to set a timer, either in seconds or minutes, and it will count up to the specified time. The timer is designed to be straightforward and user-friendly.
